@@ -7,7 +7,7 @@
 -->
 ![perspicacitee's github stats](https://github-readme-stats.vercel.app/api?username=perspicacitee&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiumingwang&langs_count=8)](https://github.com/lingjivoo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiumingwang&langs_count=8)](https://github.com/qiumingwang/github-readme-stats)
 
 <!--
 **lingjivoo/lingjivoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
